@@ -1,7 +1,7 @@
 # Mimus's Dice - Discord Bot
 
 This Discord Bot was idealized to let players roll dices in a simple way. There's no need to use sintax, just type your dice and voilà!
-![alt text](image.png)
+![image](https://github.com/TiaLiliUwU/Mimus-s-Free-Dice/assets/72944953/37b3a215-01c8-436b-825f-4f3f12ceff71)
 
 ## How to use:
 
