@@ -15,7 +15,7 @@ To roll the dices follow the pattern 1d20, where the first number declares the a
 
 ### Features to be add in the next updates:
 
-| - Textual indicaton of which player rolled the dice |
+| - Textual indication of which player rolled the dice |
 | :--------------------------------------------------- |
 | - Multilingual support |
 | - "how to use" tutorial with help command |
